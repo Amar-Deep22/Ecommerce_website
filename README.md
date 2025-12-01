@@ -1,6 +1,4 @@
-# Ecommerce_website
-
-1#include <stdio.h>
+#include <stdio.h>
 #include <string.h>
 // CONSTANT VALUES (MAX LIMITS FOR ARRAYS)
 #define MAX_USERS 50
